@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hugokill/static/css/main.373fccbb.chunk.css",
+    "main.js": "/hugokill/static/js/main.5cb015ab.chunk.js",
+    "main.js.map": "/hugokill/static/js/main.5cb015ab.chunk.js.map",
+    "runtime-main.js": "/hugokill/static/js/runtime-main.54d9d73d.js",
+    "runtime-main.js.map": "/hugokill/static/js/runtime-main.54d9d73d.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/hugokill/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.17c9b97b.chunk.js": "/hugokill/static/js/2.17c9b97b.chunk.js",
+    "static/js/2.17c9b97b.chunk.js.map": "/hugokill/static/js/2.17c9b97b.chunk.js.map",
+    "index.html": "/hugokill/index.html",
+    "precache-manifest.dcca141c574bfa7aa3752889fc2fbb3e.js": "/hugokill/precache-manifest.dcca141c574bfa7aa3752889fc2fbb3e.js",
+    "service-worker.js": "/hugokill/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/hugokill/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.373fccbb.chunk.css.map": "/hugokill/static/css/main.373fccbb.chunk.css.map",
+    "static/js/2.17c9b97b.chunk.js.LICENSE.txt": "/hugokill/static/js/2.17c9b97b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hugokill/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54d9d73d.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.17c9b97b.chunk.js",
+    "static/css/main.373fccbb.chunk.css",
+    "static/js/main.5cb015ab.chunk.js"
+  ]
+}
